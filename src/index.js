@@ -17,7 +17,9 @@ L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png').addTo(map);
 //     weight: 1,
 //     fillOpacity: 1
 // };
-var points = new L.GeoJSON.AJAX('globi-obs.geojson');
-console.log(points);
-var heat = L.heatLayer(points, {radius:12,blur:25,maxZoom:11}).addTo(map);
-console.log(heat);
+var points = new L.GeoJSON.AJAX('globi-obs.geojson', {
+    middleware:function(data){
+        console.log(data);
+        return L.heatLayer(points, {radius:12,blur:25,maxZoom:11})        
+    }
+}).addTo(map);
