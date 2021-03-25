@@ -1,0 +1,396 @@
+{"type": "FeatureCollection",
+	"features": [{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-79.28889,
+			25.70444
+		]
+	},
+	"properties": {
+		"latitude": 25.70444,
+		"locality": "Bimini",
+		"type": "SpecimenNode",
+		"localityId": "GEONAMES:3572807",
+		"longitude": -79.28889,
+		"bodyPartId": "http://purl.obolibrary.org/obo/AEO_0000186",
+		"lifeStageId": "http://purl.obolibrary.org/obo/UBERON_0000066",
+		"bodyPartLabel": "body cavity",
+		"lifeStageLabel": "fully formed stage",
+		"pathIds": "WORMS:1 | WORMS:2 | WORMS:1806 | WORMS:148744 | WORMS:123083 | WORMS:1393249 | WORMS:1036233 | WORMS:731943 | WORMS:205662 | WORMS:241768",
+		"externalUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=241768",
+		"kingdomName": "Animalia",
+		"pathNames": "| kingdom | phylum | subphylum | class | subclass | order | family | genus | species",
+		"orderId": "WORMS:1036233",
+		"phylumName": "Echinodermata",
+		"externalIds": "Actinopoda | Actinopyga | Actinopyga agassizii | Animalia | Aspidochirotacea | Aspidochirotida | Bilateria | Biota | Deuterostomia | Echinodermata | Echinozoa | Eleutherozoa | Eukaryota | Eumetazoa | GBIF:1 | GBIF:222 | GBIF:2279190 | GBIF:50 | GBIF:5967411 | GBIF:9505681 | GBIF:9548 | Holothuriida | Holothuriidae | Holothuroidea | Holozoa | IRMNG:101340 | IRMNG:11 | IRMNG:11842763 | IRMNG:12461 | IRMNG:1308399 | IRMNG:1483 | IRMNG:158 | ITIS:1077773 | ITIS:1078952 | ITIS:156857 | ITIS:157820 | ITIS:158140 | ITIS:158309 | ITIS:158337 | ITIS:202423 | ITIS:914154 | ITIS:914156 | Metazoa | OTT:117569 | OTT:147604 | OTT:304358 | OTT:317277 | OTT:332573 | OTT:3652252 | OTT:451020 | OTT:5246131 | OTT:641038 | OTT:669475 | OTT:691846 | OTT:699706 | OTT:805080 | OTT:924444 | OTT:924445 | OTT:924446 | OTT:93302 | OTT:957430 | Opisthokonta | WORMS:1 | WORMS:1036233 | WORMS:123083 | WORMS:1393249 | WORMS:148744 | WORMS:1806 | WORMS:2 | WORMS:205662 | WORMS:241768 | WORMS:731943 | http://treatment.plazi.org/id/039687A6F24BFF92FF079D961C9F0904 | http://treatment.plazi.org/id/30710A411619FFFDFF2A20B8EF85D6B8 | | ",
+		"genusId": "WORMS:205662",
+		"externalId": "WORMS:241768",
+		"className": "Holothuroidea",
+		"speciesId": "WORMS:241768",
+		"nameIds": "GBIF:5967411 | IRMNG:11842763 | ITIS:1078952 | OTT:3652252 | WORMS:241768 | http://treatment.plazi.org/id/039687A6F24BFF92FF079D961C9F0904 | http://treatment.plazi.org/id/30710A411619FFFDFF2A20B8EF85D6B8",
+		"phylumId": "WORMS:1806",
+		"familyId": "WORMS:731943",
+		"path": "Biota | Animalia | Echinodermata | Echinozoa | Holothuroidea | Actinopoda | Holothuriida | Holothuriidae | Actinopyga | Actinopyga agassizii",
+		"classId": "WORMS:123083",
+		"genusName": "Actinopyga",
+		"speciesName": "Actinopyga agassizii",
+		"familyName": "Holothuriidae",
+		"name": "Actinopyga agassizii",
+		"rank": "species",
+		"kingdomId": "WORMS:2",
+		"orderName": "Holothuriida",
+		"thumbnailUrl": ""
+	}
+},{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-79.28889,
+			25.70444
+		]
+	},
+	"properties": {
+		"latitude": 25.70444,
+		"locality": "Bimini",
+		"type": "SpecimenNode",
+		"localityId": "GEONAMES:3572807",
+		"longitude": -79.28889,
+		"lifeStageId": "http://purl.obolibrary.org/obo/UBERON_0000066",
+		"lifeStageLabel": "fully formed stage",
+		"externalUrl": "http://fishbase.org/summary/3128",
+		"pathNames": "class | order | family | genus | species",
+		"externalIds": "Acanthomorphata | Actinopteri | Actinopterygii | Animalia | Bilateria | Biota | Carapidae | Carapinae | Carapus | Carapus bermudensis | Chordata | Clupeocephala | Craniata | Ctenosquamata | Deuterostomia | Euacanthomorphacea | Eukaryota | Eumetazoa | Eurypterygia | Euteleosteomorpha | Euteleostomi | FBC:FB:SpecCode:3128 | GBIF:1 | GBIF:1308 | GBIF:204 | GBIF:44 | GBIF:5203082 | GBIF:5428770 | GBIF:8475 | Gnathostomata | Holozoa | IRMNG:10761381 | IRMNG:11 | IRMNG:114888 | IRMNG:11712 | IRMNG:1350244 | IRMNG:148 | IRMNG:1530 | ITIS:158852 | ITIS:161061 | ITIS:161105 | ITIS:164385 | ITIS:164806 | ITIS:165094 | ITIS:165095 | ITIS:165096 | ITIS:202423 | ITIS:331030 | ITIS:553139 | ITIS:622721 | ITIS:914154 | ITIS:914156 | ITIS:914179 | Metazoa | NCBI:1 | NCBI:117570 | NCBI:117571 | NCBI:123365 | NCBI:123366 | NCBI:123367 | NCBI:123368 | NCBI:123369 | NCBI:131567 | NCBI:1489341 | NCBI:1489388 | NCBI:1489872 | NCBI:1489873 | NCBI:181389 | NCBI:181390 | NCBI:181391 | NCBI:181392 | NCBI:181393 | NCBI:186623 | NCBI:186625 | NCBI:2759 | NCBI:32443 | NCBI:33154 | NCBI:33208 | NCBI:33213 | NCBI:33511 | NCBI:41665 | NCBI:6072 | NCBI:7711 | NCBI:7742 | NCBI:7776 | NCBI:7898 | NCBI:89593 | NCBI:94929 | Neopterygii | Neoteleostei | OTT:108719 | OTT:108720 | OTT:108734 | OTT:108735 | OTT:108736 | OTT:114654 | OTT:114656 | OTT:117569 | OTT:125642 | OTT:147604 | OTT:212201 | OTT:21932 | OTT:21933 | OTT:21938 | OTT:21940 | OTT:224059 | OTT:278114 | OTT:285819 | OTT:285821 | OTT:304358 | OTT:332573 | OTT:471203 | OTT:5246131 | OTT:543067 | OTT:5506109 | OTT:5517919 | OTT:5551466 | OTT:5553749 | OTT:641038 | OTT:691846 | OTT:773483 | OTT:801601 | OTT:805080 | OTT:93302 | OTT:947318 | Ophidiaria | Ophidiiformes | Ophidioidei | Opisthokonta | Osteoglossocephalai | Paracanthopterygii | Percomorphaceae | Pisces | Teleostei | Teleostomi | Vertebrata | WORMS:1 | WORMS:10194 | WORMS:10314 | WORMS:11676 | WORMS:125504 | WORMS:125853 | WORMS:146419 | WORMS:154741 | WORMS:158995 | WORMS:1821 | WORMS:1828 | WORMS:2 | cellular organisms | root | | ",
+		"externalId": "FBC:FB:SpecCode:3128",
+		"className": "Actinopterygii",
+		"nameIds": "FBC:FB:SpecCode:3128 | GBIF:5203082 | IRMNG:10761381 | ITIS:165096 | NCBI:181393 | OTT:21933 | WORMS:158995",
+		"path": "Actinopterygii | Ophidiiformes | Carapidae | Carapus | Carapus bermudensis",
+		"speciesName": "Carapus bermudensis",
+		"genusName": "Carapus",
+		"familyName": "Carapidae",
+		"name": "Carapus bermudensis",
+		"rank": "species",
+		"orderName": "Ophidiiformes",
+		"thumbnailUrl": ""
+	}
+},{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-79.28889,
+			25.70444
+		]
+	},
+	"properties": {
+		"latitude": 25.70444,
+		"locality": "Bimini",
+		"type": "SpecimenNode",
+		"localityId": "GEONAMES:3572807",
+		"longitude": -79.28889,
+		"bodyPartId": "http://purl.obolibrary.org/obo/UBERON_0002416",
+		"lifeStageId": "http://purl.obolibrary.org/obo/UBERON_0000066",
+		"bodyPartLabel": "integumental system",
+		"lifeStageLabel": "fully formed stage",
+		"externalUrl": "http://sealifebase.org/Summary/SpeciesSummary.php?id=49338",
+		"pathNames": "class | order | family | genus | species",
+		"externalIds": "Animalia | Bilateria | Biota | Clypeaster | Clypeaster rosaceus | Clypeasteridae | Clypeasterina | Clypeasteroida | Deuterostomia | Echinodermata | Echinoidea | Echinozoa | Eleutherozoa | Euechinoidea | Eukaryota | Eumetazoa | FBC:SLB:SpecCode:49338 | GBIF:1 | GBIF:221 | GBIF:2279062 | GBIF:50 | GBIF:5188174 | GBIF:5596 | GBIF:814 | Gnathostomata | Holozoa | INAT_TAXON:255612 | IRMNG:100939 | IRMNG:1036349 | IRMNG:10587123 | IRMNG:1079 | IRMNG:11 | IRMNG:11231 | IRMNG:158 | ITIS:156857 | ITIS:157820 | ITIS:157821 | ITIS:157848 | ITIS:157978 | ITIS:157984 | ITIS:157985 | ITIS:157986 | ITIS:157987 | ITIS:157998 | ITIS:202423 | ITIS:914154 | ITIS:914156 | Irregularia | Metazoa | NCBI:1 | NCBI:105356 | NCBI:131567 | NCBI:133551 | NCBI:2759 | NCBI:31186 | NCBI:33154 | NCBI:33208 | NCBI:33213 | NCBI:33511 | NCBI:35060 | NCBI:35061 | NCBI:6072 | NCBI:7586 | NCBI:7624 | NCBI:7625 | NCBI:7638 | NCBI:7643 | Neognathostomata | OTT:117569 | OTT:146853 | OTT:147604 | OTT:304358 | OTT:317277 | OTT:332573 | OTT:3649596 | OTT:3650797 | OTT:3650903 | OTT:3650980 | OTT:451020 | OTT:5223812 | OTT:5246131 | OTT:641038 | OTT:669472 | OTT:669475 | OTT:691846 | OTT:805080 | OTT:93302 | Opisthokonta | WORMS:1 | WORMS:123082 | WORMS:123100 | WORMS:148744 | WORMS:149854 | WORMS:1806 | WORMS:196177 | WORMS:196261 | WORMS:2 | WORMS:205242 | WORMS:367962 | WORMS:510499 | WORMS:510501 | cellular organisms | root | | ",
+		"externalId": "FBC:SLB:SpecCode:49338",
+		"className": "Echinoidea",
+		"nameIds": "FBC:SLB:SpecCode:49338 | GBIF:5188174 | INAT_TAXON:255612 | IRMNG:10587123 | ITIS:157998 | NCBI:105356 | OTT:3650980 | WORMS:367962",
+		"path": "Echinoidea | Clypeasteroida | Clypeasteridae | Clypeaster | Clypeaster rosaceus",
+		"speciesName": "Clypeaster rosaceus",
+		"genusName": "Clypeaster",
+		"familyName": "Clypeasteridae",
+		"name": "Clypeaster rosaceus",
+		"rank": "species",
+		"orderName": "Clypeasteroida",
+		"thumbnailUrl": ""
+	}
+},{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-79.28889,
+			25.70444
+		]
+	},
+	"properties": {
+		"latitude": 25.70444,
+		"locality": "Bimini",
+		"type": "SpecimenNode",
+		"localityId": "GEONAMES:3572807",
+		"longitude": -79.28889,
+		"lifeStageId": "http://purl.obolibrary.org/obo/UBERON_0000069",
+		"lifeStageLabel": "larval stage",
+		"pathIds": "WORMS:1 | WORMS:2 | WORMS:1065 | WORMS:1066 | WORMS:845959 | WORMS:1080 | WORMS:155876 | WORMS:155879 | WORMS:1103 | WORMS:128591 | WORMS:128711 | WORMS:355038",
+		"externalUrl": "http://eol.org/pages/3010874",
+		"kingdomName": "Animalia",
+		"pathNames": "| kingdom | phylum | subphylum | superclass | subclass | infraclass | superorder | order | family | genus | species",
+		"orderId": "WORMS:1103",
+		"phylumName": "Arthropoda",
+		"externalIds": "Animalia | Arthropoda | Biota | Copepoda | Crustacea | Cyclopoida | GBIF:1 | GBIF:2110724 | GBIF:4323139 | GBIF:54 | GBIF:687 | GBIF:9143 | GBIF:9421786 | Hexanauplia | IRMNG:106926 | IRMNG:10997 | IRMNG:1099930 | IRMNG:11 | IRMNG:11690795 | IRMNG:1489 | IRMNG:235 | Maxillopoda | Multicrustacea | Neocopepoda | OTT:2946435 | Podoplea | Poecilostomatoida | Pseudanthessiidae | Pseudanthessius | Pseudanthessius pectinifer | WORMS:1 | WORMS:1065 | WORMS:1066 | WORMS:1080 | WORMS:1103 | WORMS:128591 | WORMS:128711 | WORMS:155876 | WORMS:155879 | WORMS:2 | WORMS:355038 | WORMS:845959",
+		"genusId": "WORMS:128711",
+		"externalId": "WORMS:355038",
+		"speciesId": "WORMS:355038",
+		"nameIds": "GBIF:4323139 | IRMNG:11690795 | OTT:2946435 | WORMS:355038",
+		"phylumId": "WORMS:1065",
+		"familyId": "WORMS:128591",
+		"path": "Biota | Animalia | Arthropoda | Crustacea | Multicrustacea | Copepoda | Neocopepoda | Podoplea | Poecilostomatoida | Pseudanthessiidae | Pseudanthessius | Pseudanthessius pectinifer",
+		"genusName": "Pseudanthessius",
+		"speciesName": "Pseudanthessius pectinifer",
+		"familyName": "Pseudanthessiidae",
+		"name": "Pseudanthessius pectinifer",
+		"rank": "species",
+		"kingdomId": "WORMS:2",
+		"orderName": "Poecilostomatoida",
+		"thumbnailUrl": ""
+	}
+},{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-79.28889,
+			25.70444
+		]
+	},
+	"properties": {
+		"latitude": 25.70444,
+		"locality": "Bimini",
+		"type": "SpecimenNode",
+		"localityId": "GEONAMES:3572807",
+		"longitude": -79.28889,
+		"bodyPartId": "http://purl.obolibrary.org/obo/UBERON_0002416",
+		"lifeStageId": "http://purl.obolibrary.org/obo/UBERON_0000066",
+		"bodyPartLabel": "integumental system",
+		"lifeStageLabel": "fully formed stage",
+		"externalUrl": "http://sealifebase.org/Summary/SpeciesSummary.php?id=49338",
+		"pathNames": "class | order | family | genus | species",
+		"externalIds": "Animalia | Bilateria | Biota | Clypeaster | Clypeaster rosaceus | Clypeasteridae | Clypeasterina | Clypeasteroida | Deuterostomia | Echinodermata | Echinoidea | Echinozoa | Eleutherozoa | Euechinoidea | Eukaryota | Eumetazoa | FBC:SLB:SpecCode:49338 | GBIF:1 | GBIF:221 | GBIF:2279062 | GBIF:50 | GBIF:5188174 | GBIF:5596 | GBIF:814 | Gnathostomata | Holozoa | INAT_TAXON:255612 | IRMNG:100939 | IRMNG:1036349 | IRMNG:10587123 | IRMNG:1079 | IRMNG:11 | IRMNG:11231 | IRMNG:158 | ITIS:156857 | ITIS:157820 | ITIS:157821 | ITIS:157848 | ITIS:157978 | ITIS:157984 | ITIS:157985 | ITIS:157986 | ITIS:157987 | ITIS:157998 | ITIS:202423 | ITIS:914154 | ITIS:914156 | Irregularia | Metazoa | NCBI:1 | NCBI:105356 | NCBI:131567 | NCBI:133551 | NCBI:2759 | NCBI:31186 | NCBI:33154 | NCBI:33208 | NCBI:33213 | NCBI:33511 | NCBI:35060 | NCBI:35061 | NCBI:6072 | NCBI:7586 | NCBI:7624 | NCBI:7625 | NCBI:7638 | NCBI:7643 | Neognathostomata | OTT:117569 | OTT:146853 | OTT:147604 | OTT:304358 | OTT:317277 | OTT:332573 | OTT:3649596 | OTT:3650797 | OTT:3650903 | OTT:3650980 | OTT:451020 | OTT:5223812 | OTT:5246131 | OTT:641038 | OTT:669472 | OTT:669475 | OTT:691846 | OTT:805080 | OTT:93302 | Opisthokonta | WORMS:1 | WORMS:123082 | WORMS:123100 | WORMS:148744 | WORMS:149854 | WORMS:1806 | WORMS:196177 | WORMS:196261 | WORMS:2 | WORMS:205242 | WORMS:367962 | WORMS:510499 | WORMS:510501 | cellular organisms | root | | ",
+		"externalId": "FBC:SLB:SpecCode:49338",
+		"className": "Echinoidea",
+		"nameIds": "FBC:SLB:SpecCode:49338 | GBIF:5188174 | INAT_TAXON:255612 | IRMNG:10587123 | ITIS:157998 | NCBI:105356 | OTT:3650980 | WORMS:367962",
+		"path": "Echinoidea | Clypeasteroida | Clypeasteridae | Clypeaster | Clypeaster rosaceus",
+		"speciesName": "Clypeaster rosaceus",
+		"genusName": "Clypeaster",
+		"familyName": "Clypeasteridae",
+		"name": "Clypeaster rosaceus",
+		"rank": "species",
+		"orderName": "Clypeasteroida",
+		"thumbnailUrl": ""
+	}
+},{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-79.28889,
+			25.70444
+		]
+	},
+	"properties": {
+		"latitude": 25.70444,
+		"locality": "Bimini",
+		"type": "SpecimenNode",
+		"localityId": "GEONAMES:3572807",
+		"longitude": -79.28889,
+		"lifeStageId": "http://purl.obolibrary.org/obo/UBERON_0000066",
+		"lifeStageLabel": "fully formed stage",
+		"pathIds": "WORMS:1 | WORMS:2 | WORMS:1065 | WORMS:1066 | WORMS:845959 | WORMS:1080 | WORMS:155876 | WORMS:155879 | WORMS:1103 | WORMS:128591 | WORMS:128711 | WORMS:355038",
+		"externalUrl": "http://eol.org/pages/3010874",
+		"kingdomName": "Animalia",
+		"pathNames": "| kingdom | phylum | subphylum | superclass | subclass | infraclass | superorder | order | family | genus | species",
+		"orderId": "WORMS:1103",
+		"phylumName": "Arthropoda",
+		"externalIds": "Animalia | Arthropoda | Biota | Copepoda | Crustacea | Cyclopoida | GBIF:1 | GBIF:2110724 | GBIF:4323139 | GBIF:54 | GBIF:687 | GBIF:9143 | GBIF:9421786 | Hexanauplia | IRMNG:106926 | IRMNG:10997 | IRMNG:1099930 | IRMNG:11 | IRMNG:11690795 | IRMNG:1489 | IRMNG:235 | Maxillopoda | Multicrustacea | Neocopepoda | OTT:2946435 | Podoplea | Poecilostomatoida | Pseudanthessiidae | Pseudanthessius | Pseudanthessius pectinifer | WORMS:1 | WORMS:1065 | WORMS:1066 | WORMS:1080 | WORMS:1103 | WORMS:128591 | WORMS:128711 | WORMS:155876 | WORMS:155879 | WORMS:2 | WORMS:355038 | WORMS:845959",
+		"genusId": "WORMS:128711",
+		"externalId": "WORMS:355038",
+		"speciesId": "WORMS:355038",
+		"nameIds": "GBIF:4323139 | IRMNG:11690795 | OTT:2946435 | WORMS:355038",
+		"phylumId": "WORMS:1065",
+		"familyId": "WORMS:128591",
+		"path": "Biota | Animalia | Arthropoda | Crustacea | Multicrustacea | Copepoda | Neocopepoda | Podoplea | Poecilostomatoida | Pseudanthessiidae | Pseudanthessius | Pseudanthessius pectinifer",
+		"genusName": "Pseudanthessius",
+		"speciesName": "Pseudanthessius pectinifer",
+		"familyName": "Pseudanthessiidae",
+		"name": "Pseudanthessius pectinifer",
+		"rank": "species",
+		"kingdomId": "WORMS:2",
+		"orderName": "Poecilostomatoida",
+		"thumbnailUrl": ""
+	}
+},{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-79.28889,
+			25.70444
+		]
+	},
+	"properties": {
+		"latitude": 25.70444,
+		"locality": "Bimini",
+		"type": "SpecimenNode",
+		"localityId": "GEONAMES:3572807",
+		"longitude": -79.28889,
+		"bodyPartId": "http://purl.obolibrary.org/obo/UBERON_0002416",
+		"lifeStageId": "http://purl.obolibrary.org/obo/UBERON_0000066",
+		"bodyPartLabel": "integumental system",
+		"lifeStageLabel": "fully formed stage",
+		"pathIds": "WORMS:1 | WORMS:2 | WORMS:1806 | WORMS:148744 | WORMS:123083 | WORMS:1393249 | WORMS:1036233 | WORMS:731943 | WORMS:205662 | WORMS:241768",
+		"externalUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=241768",
+		"kingdomName": "Animalia",
+		"pathNames": "| kingdom | phylum | subphylum | class | subclass | order | family | genus | species",
+		"orderId": "WORMS:1036233",
+		"phylumName": "Echinodermata",
+		"externalIds": "Actinopoda | Actinopyga | Actinopyga agassizii | Animalia | Aspidochirotacea | Aspidochirotida | Bilateria | Biota | Deuterostomia | Echinodermata | Echinozoa | Eleutherozoa | Eukaryota | Eumetazoa | GBIF:1 | GBIF:222 | GBIF:2279190 | GBIF:50 | GBIF:5967411 | GBIF:9505681 | GBIF:9548 | Holothuriida | Holothuriidae | Holothuroidea | Holozoa | IRMNG:101340 | IRMNG:11 | IRMNG:11842763 | IRMNG:12461 | IRMNG:1308399 | IRMNG:1483 | IRMNG:158 | ITIS:1077773 | ITIS:1078952 | ITIS:156857 | ITIS:157820 | ITIS:158140 | ITIS:158309 | ITIS:158337 | ITIS:202423 | ITIS:914154 | ITIS:914156 | Metazoa | OTT:117569 | OTT:147604 | OTT:304358 | OTT:317277 | OTT:332573 | OTT:3652252 | OTT:451020 | OTT:5246131 | OTT:641038 | OTT:669475 | OTT:691846 | OTT:699706 | OTT:805080 | OTT:924444 | OTT:924445 | OTT:924446 | OTT:93302 | OTT:957430 | Opisthokonta | WORMS:1 | WORMS:1036233 | WORMS:123083 | WORMS:1393249 | WORMS:148744 | WORMS:1806 | WORMS:2 | WORMS:205662 | WORMS:241768 | WORMS:731943 | http://treatment.plazi.org/id/039687A6F24BFF92FF079D961C9F0904 | http://treatment.plazi.org/id/30710A411619FFFDFF2A20B8EF85D6B8 | | ",
+		"genusId": "WORMS:205662",
+		"externalId": "WORMS:241768",
+		"className": "Holothuroidea",
+		"speciesId": "WORMS:241768",
+		"nameIds": "GBIF:5967411 | IRMNG:11842763 | ITIS:1078952 | OTT:3652252 | WORMS:241768 | http://treatment.plazi.org/id/039687A6F24BFF92FF079D961C9F0904 | http://treatment.plazi.org/id/30710A411619FFFDFF2A20B8EF85D6B8",
+		"phylumId": "WORMS:1806",
+		"familyId": "WORMS:731943",
+		"path": "Biota | Animalia | Echinodermata | Echinozoa | Holothuroidea | Actinopoda | Holothuriida | Holothuriidae | Actinopyga | Actinopyga agassizii",
+		"classId": "WORMS:123083",
+		"genusName": "Actinopyga",
+		"speciesName": "Actinopyga agassizii",
+		"familyName": "Holothuriidae",
+		"name": "Actinopyga agassizii",
+		"rank": "species",
+		"kingdomId": "WORMS:2",
+		"orderName": "Holothuriida",
+		"thumbnailUrl": ""
+	}
+},{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-79.28889,
+			25.70444
+		]
+	},
+	"properties": {
+		"latitude": 25.70444,
+		"locality": "Bimini",
+		"type": "SpecimenNode",
+		"localityId": "GEONAMES:3572807",
+		"longitude": -79.28889,
+		"lifeStageId": "http://purl.obolibrary.org/obo/UBERON_0000066",
+		"lifeStageLabel": "fully formed stage",
+		"pathIds": "WORMS:1 | WORMS:2 | WORMS:51 | WORMS:101 | WORMS:224570 | WORMS:382213 | WORMS:387336 | WORMS:135 | WORMS:137993",
+		"externalUrl": "https://www.marinespecies.org/aphia.php?p=taxdetails&id=137993",
+		"kingdomName": "Animalia",
+		"pathNames": "| kingdom | phylum | class | subclass | order | superfamily | family | genus",
+		"orderId": "WORMS:382213",
+		"phylumName": "Mollusca",
+		"externalIds": "Animalia | Bilateria | Biota | Caenogastropoda | Eukaryota | Eulimidae | Eumetazoa | GBIF:1 | GBIF:225 | GBIF:2299801 | GBIF:52 | GBIF:6759 | GBIF:7390893 | Gastropoda | Holozoa | IRMNG:1032117 | IRMNG:105498 | IRMNG:11 | IRMNG:12670 | IRMNG:1298 | IRMNG:175 | ITIS:202423 | ITIS:566851 | ITIS:69458 | ITIS:69459 | ITIS:72438 | ITIS:72511 | ITIS:914154 | ITIS:914155 | ITIS:914159 | Littorinimorpha | Lophotrochozoa | Lophozoa | Metazoa | Mollusca | NCBI:1 | NCBI:1206795 | NCBI:131567 | NCBI:1502571 | NCBI:211825 | NCBI:216294 | NCBI:2697495 | NCBI:2759 | NCBI:33154 | NCBI:33208 | NCBI:33213 | NCBI:33317 | NCBI:6072 | NCBI:6447 | NCBI:6448 | NCBI:69555 | NCBI:69595 | Neotaenioglossa | OTT:117569 | OTT:155737 | OTT:178263 | OTT:189832 | OTT:272321 | OTT:285849 | OTT:2895576 | OTT:304358 | OTT:332573 | OTT:371471 | OTT:409995 | OTT:5246131 | OTT:641038 | OTT:691846 | OTT:802117 | OTT:805080 | OTT:93302 | Opisthokonta | Protostomia | Ptenoglossa | Spiralia | Vanikoroidea | Vitreolina | WORMS:1 | WORMS:101 | WORMS:135 | WORMS:137993 | WORMS:2 | WORMS:224570 | WORMS:382213 | WORMS:387336 | WORMS:51 | cellular organisms | root | | ",
+		"genusId": "WORMS:137993",
+		"externalId": "WORMS:137993",
+		"className": "Gastropoda",
+		"nameIds": "GBIF:2299801 | IRMNG:1032117 | ITIS:72511 | NCBI:1502571 | OTT:2895576 | WORMS:137993",
+		"phylumId": "WORMS:51",
+		"familyId": "WORMS:135",
+		"path": "Biota | Animalia | Mollusca | Gastropoda | Caenogastropoda | Littorinimorpha | Vanikoroidea | Eulimidae | Vitreolina",
+		"classId": "WORMS:101",
+		"genusName": "Vitreolina",
+		"familyName": "Eulimidae",
+		"name": "Vitreolina",
+		"rank": "genus",
+		"kingdomId": "WORMS:2",
+		"orderName": "Littorinimorpha",
+		"thumbnailUrl": ""
+	}
+},{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-79.28889,
+			25.70444
+		]
+	},
+	"properties": {
+		"latitude": 25.70444,
+		"locality": "Bimini",
+		"type": "SpecimenNode",
+		"localityId": "GEONAMES:3572807",
+		"longitude": -79.28889,
+		"bodyPartId": "http://purl.obolibrary.org/obo/UBERON_0002416",
+		"lifeStageId": "http://purl.obolibrary.org/obo/UBERON_0000066",
+		"bodyPartLabel": "integumental system",
+		"lifeStageLabel": "fully formed stage",
+		"pathIds": "WORMS:1 | WORMS:2 | WORMS:1806 | WORMS:148744 | WORMS:123082 | WORMS:149854 | WORMS:510499 | WORMS:149864 | WORMS:123106 | WORMS:510538 | WORMS:123173 | WORMS:367845 | WORMS:367846",
+		"externalUrl": "http://eol.org/pages/599050",
+		"kingdomName": "Animalia",
+		"pathNames": "| kingdom | phylum | subphylum | class | subclass | infraclass | superorder | order | suborder | family | genus | species",
+		"orderId": "WORMS:123106",
+		"phylumName": "Echinodermata",
+		"externalIds": "Animalia | Atelostomata | Bilateria | Biota | Brissidae | Brissidina | Deuterostomia | Echinodermata | Echinoidea | Echinozoa | Eleutherozoa | Euechinoidea | Eukaryota | Eumetazoa | FBC:SLB:SpecCode:50018 | GBIF:1 | GBIF:1471 | GBIF:221 | GBIF:2278972 | GBIF:2278973 | GBIF:50 | GBIF:9528 | INAT_TAXON:195776 | IRMNG:101142 | IRMNG:10180 | IRMNG:10190504 | IRMNG:1079 | IRMNG:11 | IRMNG:1299556 | IRMNG:158 | ITIS:156857 | ITIS:157820 | ITIS:157821 | ITIS:157848 | ITIS:158035 | ITIS:158069 | ITIS:158099 | ITIS:158100 | ITIS:158101 | ITIS:158102 | ITIS:202423 | ITIS:914154 | ITIS:914156 | Irregularia | Meoma | Meoma ventricosa | Metazoa | Micrasterina | NCBI:1 | NCBI:131567 | NCBI:133551 | NCBI:2759 | NCBI:33154 | NCBI:33208 | NCBI:33213 | NCBI:33511 | NCBI:35063 | NCBI:39155 | NCBI:39340 | NCBI:41317 | NCBI:41319 | NCBI:6072 | NCBI:7586 | NCBI:7624 | NCBI:7625 | NCBI:7638 | OTT:830197 | Opisthokonta | Spatangoida | WORMS:1 | WORMS:123082 | WORMS:123106 | WORMS:123173 | WORMS:148744 | WORMS:149854 | WORMS:149864 | WORMS:1806 | WORMS:2 | WORMS:367845 | WORMS:367846 | WORMS:510499 | WORMS:510538 | cellular organisms | root",
+		"genusId": "WORMS:367845",
+		"externalId": "WORMS:367846",
+		"className": "Echinoidea",
+		"speciesId": "WORMS:367846",
+		"nameIds": "FBC:SLB:SpecCode:50018 | GBIF:2278973 | INAT_TAXON:195776 | IRMNG:10190504 | ITIS:158102 | NCBI:39340 | OTT:830197 | WORMS:367846",
+		"phylumId": "WORMS:1806",
+		"familyId": "WORMS:123173",
+		"path": "Biota | Animalia | Echinodermata | Echinozoa | Echinoidea | Euechinoidea | Irregularia | Atelostomata | Spatangoida | Brissidina | Brissidae | Meoma | Meoma ventricosa",
+		"classId": "WORMS:123082",
+		"genusName": "Meoma",
+		"speciesName": "Meoma ventricosa",
+		"familyName": "Brissidae",
+		"name": "Meoma ventricosa",
+		"rank": "species",
+		"kingdomId": "WORMS:2",
+		"orderName": "Spatangoida",
+		"thumbnailUrl": ""
+	}
+},{
+	"type": "Feature",
+	"geometry": {
+		"type": "Point",
+		"coordinates": [
+			-79.28889,
+			25.70444
+		]
+	},
+	"properties": {
+		"latitude": 25.70444,
+		"locality": "Bimini",
+		"type": "SpecimenNode",
+		"localityId": "GEONAMES:3572807",
+		"longitude": -79.28889,
+		"lifeStageId": "http://purl.obolibrary.org/obo/UBERON_0000066",
+		"lifeStageLabel": "fully formed stage",
+		"pathIds": "GBIF:1 | GBIF:54 | GBIF:229 | GBIF:637 | GBIF:8672 | GBIF:2226857",
+		"externalUrl": "http://www.gbif.org/species/2226857",
+		"kingdomName": "Animalia",
+		"pathNames": "kingdom | phylum | class | order | family | genus",
+		"orderId": "GBIF:637",
+		"phylumName": "Arthropoda",
+		"externalIds": "Animalia | Arthropoda | Bilateria | Biota | Brachyura | Crustacea | Decapoda | Dissodactylus | Ecdysozoa | Eubrachyura | Eucarida | Eukaryota | Eumalacostraca | Eumetazoa | GBIF:1 | GBIF:2226857 | GBIF:229 | GBIF:54 | GBIF:637 | GBIF:8672 | Holozoa | IRMNG:10704 | IRMNG:11 | IRMNG:110207 | IRMNG:1190 | IRMNG:1409531 | IRMNG:235 | ITIS:202423 | ITIS:206962 | ITIS:82696 | ITIS:83677 | ITIS:89787 | ITIS:89801 | ITIS:914154 | ITIS:914155 | ITIS:914158 | ITIS:95495 | ITIS:95599 | ITIS:96105 | ITIS:98276 | ITIS:98964 | ITIS:98965 | Malacostraca | Mandibulata | Metazoa | Multicrustacea | NCBI:1 | NCBI:116704 | NCBI:116707 | NCBI:116715 | NCBI:1206794 | NCBI:131567 | NCBI:197562 | NCBI:197563 | NCBI:2172821 | NCBI:2759 | NCBI:33154 | NCBI:33208 | NCBI:33213 | NCBI:33317 | NCBI:585934 | NCBI:6072 | NCBI:6656 | NCBI:6657 | NCBI:6681 | NCBI:6682 | NCBI:6683 | NCBI:6692 | NCBI:6752 | NCBI:72041 | NCBI:84654 | NCBI:88770 | OTT:1007062 | OTT:117569 | OTT:166199 | OTT:169204 | OTT:169205 | OTT:189832 | OTT:212701 | OTT:304358 | OTT:332573 | OTT:358080 | OTT:358081 | OTT:5246131 | OTT:5680805 | OTT:5809708 | OTT:611099 | OTT:632176 | OTT:632179 | OTT:641038 | OTT:683840 | OTT:691846 | OTT:736321 | OTT:805080 | OTT:816442 | OTT:93302 | OTT:933777 | OTT:935379 | OTT:985906 | OTT:985907 | Opisthokonta | Panarthropoda | Pancrustacea | Pinnotheridae | Pinnotherinae | Pinnotheroidea | Pleocyemata | Protostomia | Thoracotremata | WORMS:1 | WORMS:1065 | WORMS:1066 | WORMS:106670 | WORMS:106673 | WORMS:106679 | WORMS:106682 | WORMS:106708 | WORMS:106775 | WORMS:1071 | WORMS:1086 | WORMS:1089 | WORMS:1130 | WORMS:158411 | WORMS:2 | WORMS:439165 | WORMS:845959 | cellular organisms | root | | ",
+		"genusId": "GBIF:2226857",
+		"externalId": "GBIF:2226857",
+		"className": "Malacostraca",
+		"nameIds": "GBIF:2226857 | IRMNG:1409531 | ITIS:98965 | NCBI:585934 | OTT:166199 | WORMS:158411",
+		"phylumId": "GBIF:54",
+		"familyId": "GBIF:8672",
+		"path": "Animalia | Arthropoda | Malacostraca | Decapoda | Pinnotheridae | Dissodactylus",
+		"classId": "GBIF:229",
+		"genusName": "Dissodactylus",
+		"familyName": "Pinnotheridae",
+		"name": "Dissodactylus",
+		"rank": "genus",
+		"kingdomId": "GBIF:1",
+		"orderName": "Decapoda",
+		"thumbnailUrl": ""
+	}
+}
+	]
+}
